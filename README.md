@@ -1,24 +1,17 @@
-# README
+Ruby on Rails Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Getting Started
 
-Things you may want to cover:
+- Clone repo
 
-* Ruby version
+- Install needed Gems
 
-* System dependencies
+- bundle install --without production
 
-* Configuration
+- rails db:migrate
 
-* Database creation
+- rails test
 
-* Database initialization
+- rails server
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## That's it, you're ready to go
